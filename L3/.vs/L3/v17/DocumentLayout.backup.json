@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TimurD\\source\\repos\\L3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FCFA8F-0129-4CC3-8D20-8B0BAF36F9C0}|L3\\L3.vcxproj|C:\\Users\\TimurD\\source\\repos\\L3\\L3\\L3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FCFA8F-0129-4CC3-8D20-8B0BAF36F9C0}|L3\\L3.vcxproj|solutionrelative:L3\\L3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "L3.cpp",
+              "DocumentMoniker": "C:\\Users\\TimurD\\source\\repos\\L3\\L3\\L3.cpp",
+              "RelativeDocumentMoniker": "L3\\L3.cpp",
+              "ToolTip": "C:\\Users\\TimurD\\source\\repos\\L3\\L3\\L3.cpp*",
+              "RelativeToolTip": "L3\\L3.cpp*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-18T00:03:55.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
