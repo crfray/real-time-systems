@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+**/.vs/
+x64/
+Debug/
+Release/
+
+*.ipch
+*.obj
+*.pdb
+*.tlog
+*.log
+*.ilk
+*.db
+*.cache
+*.user
+*.suo
+
